@@ -16,6 +16,8 @@ using namespace std;
 #define PB push_back
 #define MP make_pair
 
+/*https://community.topcoder.com/stat?c=problem_statement&pm=1889*/
+
 class AvoidRoads
 {
 	public:
