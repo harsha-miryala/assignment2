@@ -3,6 +3,8 @@
 #include <vector>
 using namespace std;
 
+/*https://community.topcoder.com/stat?c=problem_statement&pm=1259*/
+
 class ZigZag
 {
      public:
