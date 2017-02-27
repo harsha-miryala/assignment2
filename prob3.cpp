@@ -3,6 +3,8 @@
 #include <vector>
 using namespace std;
 
+/*https://www.codechef.com/problems/D2/*/
+
 // Binary search 
 int Check(std::vector<int> &v, int l, int r, int key) {
     while (r-l > 1) 
